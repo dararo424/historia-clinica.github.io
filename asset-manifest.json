@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/historia-clinica.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/historia-clinica.github.io/static/js/main.cc547a8d.js",
+    "main.css": "/historia-clinica.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/historia-clinica.github.io/static/js/main.3abe0db6.js",
     "static/js/787.be2592d0.chunk.js": "/historia-clinica.github.io/static/js/787.be2592d0.chunk.js",
-    "static/media/logo.svg": "/historia-clinica.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/historia-clinica.github.io/index.html",
-    "main.073c9b0a.css.map": "/historia-clinica.github.io/static/css/main.073c9b0a.css.map",
-    "main.cc547a8d.js.map": "/historia-clinica.github.io/static/js/main.cc547a8d.js.map",
+    "main.e6c13ad2.css.map": "/historia-clinica.github.io/static/css/main.e6c13ad2.css.map",
+    "main.3abe0db6.js.map": "/historia-clinica.github.io/static/js/main.3abe0db6.js.map",
     "787.be2592d0.chunk.js.map": "/historia-clinica.github.io/static/js/787.be2592d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cc547a8d.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3abe0db6.js"
   ]
 }
